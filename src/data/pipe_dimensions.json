@@ -1,0 +1,437 @@
+{
+  "standard": "ASME B36.10/B36.19",
+  "pipes": [
+    {
+      "nominal_size": "1/8 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 10.3,
+      "wall_thickness_mm": 3.68,
+      "inside_diameter_mm": 2.94,
+      "weight_per_m_kg": 0.68
+    },
+    {
+      "nominal_size": "1/8 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 10.3,
+      "wall_thickness_mm": 5.08,
+      "inside_diameter_mm": 0.14,
+      "weight_per_m_kg": 0.85
+    },
+    {
+      "nominal_size": "1/4 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 13.7,
+      "wall_thickness_mm": 3.91,
+      "inside_diameter_mm": 5.88,
+      "weight_per_m_kg": 1.02
+    },
+    {
+      "nominal_size": "1/4 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 13.7,
+      "wall_thickness_mm": 5.56,
+      "inside_diameter_mm": 2.58,
+      "weight_per_m_kg": 1.28
+    },
+    {
+      "nominal_size": "3/8 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 17.1,
+      "wall_thickness_mm": 4.24,
+      "inside_diameter_mm": 8.62,
+      "weight_per_m_kg": 1.38
+    },
+    {
+      "nominal_size": "3/8 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 17.1,
+      "wall_thickness_mm": 6.35,
+      "inside_diameter_mm": 4.40,
+      "weight_per_m_kg": 1.82
+    },
+    {
+      "nominal_size": "1/2 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 21.3,
+      "wall_thickness_mm": 4.78,
+      "inside_diameter_mm": 11.74,
+      "weight_per_m_kg": 2.06
+    },
+    {
+      "nominal_size": "1/2 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 21.3,
+      "wall_thickness_mm": 7.47,
+      "inside_diameter_mm": 6.36,
+      "weight_per_m_kg": 2.73
+    },
+    {
+      "nominal_size": "3/4 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 26.7,
+      "wall_thickness_mm": 5.56,
+      "inside_diameter_mm": 15.58,
+      "weight_per_m_kg": 2.90
+    },
+    {
+      "nominal_size": "3/4 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 26.7,
+      "wall_thickness_mm": 7.82,
+      "inside_diameter_mm": 11.06,
+      "weight_per_m_kg": 3.64
+    },
+    {
+      "nominal_size": "1 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 33.4,
+      "wall_thickness_mm": 6.35,
+      "inside_diameter_mm": 20.70,
+      "weight_per_m_kg": 4.24
+    },
+    {
+      "nominal_size": "1 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 33.4,
+      "wall_thickness_mm": 9.27,
+      "inside_diameter_mm": 14.86,
+      "weight_per_m_kg": 5.61
+    },
+    {
+      "nominal_size": "1 1/4 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 42.2,
+      "wall_thickness_mm": 6.35,
+      "inside_diameter_mm": 29.50,
+      "weight_per_m_kg": 5.61
+    },
+    {
+      "nominal_size": "1 1/4 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 42.2,
+      "wall_thickness_mm": 9.53,
+      "inside_diameter_mm": 23.14,
+      "weight_per_m_kg": 7.77
+    },
+    {
+      "nominal_size": "1 1/2 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 48.3,
+      "wall_thickness_mm": 7.14,
+      "inside_diameter_mm": 34.02,
+      "weight_per_m_kg": 7.48
+    },
+    {
+      "nominal_size": "1 1/2 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 48.3,
+      "wall_thickness_mm": 10.97,
+      "inside_diameter_mm": 26.36,
+      "weight_per_m_kg": 10.47
+    },
+    {
+      "nominal_size": "2 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 60.3,
+      "wall_thickness_mm": 8.38,
+      "inside_diameter_mm": 43.54,
+      "weight_per_m_kg": 10.79
+    },
+    {
+      "nominal_size": "2 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 60.3,
+      "wall_thickness_mm": 11.07,
+      "inside_diameter_mm": 38.16,
+      "weight_per_m_kg": 13.55
+    },
+    {
+      "nominal_size": "2 1/2 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 73.0,
+      "wall_thickness_mm": 9.53,
+      "inside_diameter_mm": 53.94,
+      "weight_per_m_kg": 15.41
+    },
+    {
+      "nominal_size": "2 1/2 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 73.0,
+      "wall_thickness_mm": 15.09,
+      "inside_diameter_mm": 42.82,
+      "weight_per_m_kg": 21.73
+    },
+    {
+      "nominal_size": "3 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 88.9,
+      "wall_thickness_mm": 11.13,
+      "inside_diameter_mm": 66.64,
+      "weight_per_m_kg": 22.12
+    },
+    {
+      "nominal_size": "3 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 88.9,
+      "wall_thickness_mm": 17.45,
+      "inside_diameter_mm": 54.00,
+      "weight_per_m_kg": 30.75
+    },
+    {
+      "nominal_size": "3 1/2 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 101.6,
+      "wall_thickness_mm": 11.13,
+      "inside_diameter_mm": 79.34,
+      "weight_per_m_kg": 25.45
+    },
+    {
+      "nominal_size": "3 1/2 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 101.6,
+      "wall_thickness_mm": 17.45,
+      "inside_diameter_mm": 66.70,
+      "weight_per_m_kg": 35.41
+    },
+    {
+      "nominal_size": "4 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 114.3,
+      "wall_thickness_mm": 13.49,
+      "inside_diameter_mm": 87.32,
+      "weight_per_m_kg": 34.15
+    },
+    {
+      "nominal_size": "4 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 114.3,
+      "wall_thickness_mm": 20.62,
+      "inside_diameter_mm": 73.06,
+      "weight_per_m_kg": 47.95
+    },
+    {
+      "nominal_size": "5 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 141.3,
+      "wall_thickness_mm": 15.88,
+      "inside_diameter_mm": 109.54,
+      "weight_per_m_kg": 50.30
+    },
+    {
+      "nominal_size": "5 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 141.3,
+      "wall_thickness_mm": 22.23,
+      "inside_diameter_mm": 96.84,
+      "weight_per_m_kg": 65.20
+    },
+    {
+      "nominal_size": "6 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 168.3,
+      "wall_thickness_mm": 18.26,
+      "inside_diameter_mm": 131.78,
+      "weight_per_m_kg": 71.43
+    },
+    {
+      "nominal_size": "6 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 168.3,
+      "wall_thickness_mm": 25.40,
+      "inside_diameter_mm": 117.50,
+      "weight_per_m_kg": 92.74
+    },
+    {
+      "nominal_size": "8 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 219.1,
+      "wall_thickness_mm": 23.01,
+      "inside_diameter_mm": 173.08,
+      "weight_per_m_kg": 113.72
+    },
+    {
+      "nominal_size": "8 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 219.1,
+      "wall_thickness_mm": 31.75,
+      "inside_diameter_mm": 155.60,
+      "weight_per_m_kg": 147.66
+    },
+    {
+      "nominal_size": "10 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 273.1,
+      "wall_thickness_mm": 28.58,
+      "inside_diameter_mm": 215.94,
+      "weight_per_m_kg": 176.68
+    },
+    {
+      "nominal_size": "10 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 273.1,
+      "wall_thickness_mm": 38.10,
+      "inside_diameter_mm": 196.90,
+      "weight_per_m_kg": 223.52
+    },
+    {
+      "nominal_size": "12 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 323.8,
+      "wall_thickness_mm": 33.32,
+      "inside_diameter_mm": 257.16,
+      "weight_per_m_kg": 249.39
+    },
+    {
+      "nominal_size": "12 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 323.8,
+      "wall_thickness_mm": 44.45,
+      "inside_diameter_mm": 234.90,
+      "weight_per_m_kg": 314.14
+    },
+    {
+      "nominal_size": "14 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 355.6,
+      "wall_thickness_mm": 34.93,
+      "inside_diameter_mm": 285.74,
+      "weight_per_m_kg": 284.29
+    },
+    {
+      "nominal_size": "14 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 355.6,
+      "wall_thickness_mm": 47.62,
+      "inside_diameter_mm": 260.36,
+      "weight_per_m_kg": 363.59
+    },
+    {
+      "nominal_size": "16 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 406.4,
+      "wall_thickness_mm": 38.10,
+      "inside_diameter_mm": 330.20,
+      "weight_per_m_kg": 362.51
+    },
+    {
+      "nominal_size": "16 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 406.4,
+      "wall_thickness_mm": 49.53,
+      "inside_diameter_mm": 307.34,
+      "weight_per_m_kg": 447.40
+    },
+    {
+      "nominal_size": "18 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 457.2,
+      "wall_thickness_mm": 41.28,
+      "inside_diameter_mm": 374.64,
+      "weight_per_m_kg": 447.77
+    },
+    {
+      "nominal_size": "18 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 457.2,
+      "wall_thickness_mm": 55.55,
+      "inside_diameter_mm": 346.10,
+      "weight_per_m_kg": 571.82
+    },
+    {
+      "nominal_size": "20 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 508.0,
+      "wall_thickness_mm": 44.45,
+      "inside_diameter_mm": 419.10,
+      "weight_per_m_kg": 543.55
+    },
+    {
+      "nominal_size": "20 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 508.0,
+      "wall_thickness_mm": 60.32,
+      "inside_diameter_mm": 387.36,
+      "weight_per_m_kg": 700.12
+    },
+    {
+      "nominal_size": "24 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 609.6,
+      "wall_thickness_mm": 50.80,
+      "inside_diameter_mm": 508.00,
+      "weight_per_m_kg": 764.78
+    },
+    {
+      "nominal_size": "24 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 609.6,
+      "wall_thickness_mm": 69.85,
+      "inside_diameter_mm": 469.90,
+      "weight_per_m_kg": 996.90
+    },
+    {
+      "nominal_size": "30 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 762.0,
+      "wall_thickness_mm": 57.15,
+      "inside_diameter_mm": 647.70,
+      "weight_per_m_kg": 1142.99
+    },
+    {
+      "nominal_size": "30 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 762.0,
+      "wall_thickness_mm": 81.28,
+      "inside_diameter_mm": 599.44,
+      "weight_per_m_kg": 1539.08
+    },
+    {
+      "nominal_size": "36 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 914.4,
+      "wall_thickness_mm": 63.50,
+      "inside_diameter_mm": 787.40,
+      "weight_per_m_kg": 1603.68
+    },
+    {
+      "nominal_size": "36 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 914.4,
+      "wall_thickness_mm": 92.71,
+      "inside_diameter_mm": 728.98,
+      "weight_per_m_kg": 2210.86
+    },
+    {
+      "nominal_size": "42 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 1066.8,
+      "wall_thickness_mm": 69.85,
+      "inside_diameter_mm": 927.10,
+      "weight_per_m_kg": 2136.09
+    },
+    {
+      "nominal_size": "42 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 1066.8,
+      "wall_thickness_mm": 104.14,
+      "inside_diameter_mm": 858.52,
+      "weight_per_m_kg": 2979.49
+    },
+    {
+      "nominal_size": "48 in",
+      "schedule": "SCH40",
+      "outside_diameter_mm": 1219.2,
+      "wall_thickness_mm": 76.20,
+      "inside_diameter_mm": 1066.80,
+      "weight_per_m_kg": 2714.43
+    },
+    {
+      "nominal_size": "48 in",
+      "schedule": "SCH80",
+      "outside_diameter_mm": 1219.2,
+      "wall_thickness_mm": 115.57,
+      "inside_diameter_mm": 988.06,
+      "weight_per_m_kg": 3917.42
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "presets": [
+    {
+      "name": "Water",
+      "fluid": "Water",
+      "type": "liquid",
+      "coolprop_name": "Water",
+      "default_properties": {
+        "density_kg_m3": 997.0,
+        "viscosity_Pa_s": 0.00089,
+        "specific_heat_ratio": 1.0,
+        "isentropic_exponent": 1.0,
+        "vapor_pressure_bar": 0.0317,
+        "critical_pressure_bar": 220.64,
+        "molecular_weight_g_mol": 18.015
+      }
+    },
+    {
+      "name": "Crude Oil (API 35)",
+      "fluid": "custom",
+      "type": "liquid",
+      "coolprop_name": null,
+      "default_properties": {
+        "density_kg_m3": 850.0,
+        "viscosity_Pa_s": 0.01,
+        "specific_heat_ratio": 1.0,
+        "isentropic_exponent": 1.0,
+        "vapor_pressure_bar": 0.05,
+        "critical_pressure_bar": 150.0,
+        "molecular_weight_g_mol": 200.0
+      }
+    },
+    {
+      "name": "Natural Gas",
+      "fluid": "Methane",
+      "type": "gas",
+      "coolprop_name": "Methane",
+      "default_properties": {
+        "density_kg_m3": 0.717,
+        "viscosity_Pa_s": 0.000011,
+        "specific_heat_ratio": 1.32,
+        "isentropic_exponent": 1.32,
+        "vapor_pressure_bar": -100.0,
+        "critical_pressure_bar": 46.0,
+        "molecular_weight_g_mol": 16.04
+      }
+    },
+    {
+      "name": "Steam (saturated)",
+      "fluid": "Water",
+      "type": "steam",
+      "coolprop_name": "Water",
+      "default_properties": {
+        "density_kg_m3": 1.5,
+        "viscosity_Pa_s": 0.000012,
+        "specific_heat_ratio": 1.33,
+        "isentropic_exponent": 1.33,
+        "vapor_pressure_bar": 1.01325,
+        "critical_pressure_bar": 220.64,
+        "molecular_weight_g_mol": 18.015
+      }
+    },
+    {
+      "name": "Steam (superheated)",
+      "fluid": "Water",
+      "type": "gas",
+      "coolprop_name": "Water",
+      "default_properties": {
+        "density_kg_m3": 1.0,
+        "viscosity_Pa_s": 0.000015,
+        "specific_heat_ratio": 1.35,
+        "isentropic_exponent": 1.35,
+        "vapor_pressure_bar": -100.0,
+        "critical_pressure_bar": 220.64,
+        "molecular_weight_g_mol": 18.015
+      }
+    },
+    {
+      "name": "Nitrogen",
+      "fluid": "Nitrogen",
+      "type": "gas",
+      "coolprop_name": "Nitrogen",
+      "default_properties": {
+        "density_kg_m3": 1.251,
+        "viscosity_Pa_s": 0.0000176,
+        "specific_heat_ratio": 1.40,
+        "isentropic_exponent": 1.40,
+        "vapor_pressure_bar": -100.0,
+        "critical_pressure_bar": 33.94,
+        "molecular_weight_g_mol": 28.013
+      }
+    },
+    {
+      "name": "Air",
+      "fluid": "Air",
+      "type": "gas",
+      "coolprop_name": "Air",
+      "default_properties": {
+        "density_kg_m3": 1.225,
+        "viscosity_Pa_s": 0.0000181,
+        "specific_heat_ratio": 1.40,
+        "isentropic_exponent": 1.40,
+        "vapor_pressure_bar": -100.0,
+        "critical_pressure_bar": 37.74,
+        "molecular_weight_g_mol": 28.97
+      }
+    },
+    {
+      "name": "Carbon Dioxide",
+      "fluid": "CO2",
+      "type": "gas",
+      "coolprop_name": "CarbonDioxide",
+      "default_properties": {
+        "density_kg_m3": 1.977,
+        "viscosity_Pa_s": 0.0000148,
+        "specific_heat_ratio": 1.30,
+        "isentropic_exponent": 1.30,
+        "vapor_pressure_bar": -100.0,
+        "critical_pressure_bar": 73.8,
+        "molecular_weight_g_mol": 44.01
+      }
+    },
+    {
+      "name": "Ethylene Glycol (30%)",
+      "fluid": "custom",
+      "type": "liquid",
+      "coolprop_name": null,
+      "default_properties": {
+        "density_kg_m3": 1050.0,
+        "viscosity_Pa_s": 0.0025,
+        "specific_heat_ratio": 1.0,
+        "isentropic_exponent": 1.0,
+        "vapor_pressure_bar": 0.001,
+        "critical_pressure_bar": 200.0,
+        "molecular_weight_g_mol": 62.07
+      }
+    },
+    {
+      "name": "Diesel Fuel",
+      "fluid": "custom",
+      "type": "liquid",
+      "coolprop_name": null,
+      "default_properties": {
+        "density_kg_m3": 840.0,
+        "viscosity_Pa_s": 0.003,
+        "specific_heat_ratio": 1.0,
+        "isentropic_exponent": 1.0,
+        "vapor_pressure_bar": 0.001,
+        "critical_pressure_bar": 100.0,
+        "molecular_weight_g_mol": 200.0
+      }
+    },
+    {
+      "name": "Kerosene",
+      "fluid": "custom",
+      "type": "liquid",
+      "coolprop_name": null,
+      "default_properties": {
+        "density_kg_m3": 810.0,
+        "viscosity_Pa_s": 0.002,
+        "specific_heat_ratio": 1.0,
+        "isentropic_exponent": 1.0,
+        "vapor_pressure_bar": 0.005,
+        "critical_pressure_bar": 120.0,
+        "molecular_weight_g_mol": 170.0
+      }
+    },
+    {
+      "name": "Sulfuric Acid (98%)",
+      "fluid": "custom",
+      "type": "liquid",
+      "coolprop_name": null,
+      "default_properties": {
+        "density_kg_m3": 1836.0,
+        "viscosity_Pa_s": 0.025,
+        "specific_heat_ratio": 1.0,
+        "isentropic_exponent": 1.0,
+        "vapor_pressure_bar": 0.0003,
+        "critical_pressure_bar": 640.0,
+        "molecular_weight_g_mol": 98.08
+      }
+    },
+    {
+      "name": "LPG (Propane)",
+      "fluid": "Propane",
+      "type": "gas",
+      "coolprop_name": "Propane",
+      "default_properties": {
+        "density_kg_m3": 1.864,
+        "viscosity_Pa_s": 0.000008,
+        "specific_heat_ratio": 1.15,
+        "isentropic_exponent": 1.15,
+        "vapor_pressure_bar": -100.0,
+        "critical_pressure_bar": 42.48,
+        "molecular_weight_g_mol": 44.10
+      }
+    },
+    {
+      "name": "Hydrogen",
+      "fluid": "Hydrogen",
+      "type": "gas",
+      "coolprop_name": "Hydrogen",
+      "default_properties": {
+        "density_kg_m3": 0.0899,
+        "viscosity_Pa_s": 0.0000088,
+        "specific_heat_ratio": 1.40,
+        "isentropic_exponent": 1.40,
+        "vapor_pressure_bar": -100.0,
+        "critical_pressure_bar": 12.84,
+        "molecular_weight_g_mol": 2.016
+      }
+    },
+    {
+      "name": "Oxygen",
+      "fluid": "Oxygen",
+      "type": "gas",
+      "coolprop_name": "Oxygen",
+      "default_properties": {
+        "density_kg_m3": 1.429,
+        "viscosity_Pa_s": 0.0000204,
+        "specific_heat_ratio": 1.40,
+        "isentropic_exponent": 1.40,
+        "vapor_pressure_bar": -100.0,
+        "critical_pressure_bar": 50.43,
+        "molecular_weight_g_mol": 32.00
+      }
+    },
+    {
+      "name": "Ammonia",
+      "fluid": "Ammonia",
+      "type": "gas",
+      "coolprop_name": "Ammonia",
+      "default_properties": {
+        "density_kg_m3": 0.771,
+        "viscosity_Pa_s": 0.000010,
+        "specific_heat_ratio": 1.31,
+        "isentropic_exponent": 1.31,
+        "vapor_pressure_bar": -100.0,
+        "critical_pressure_bar": 113.33,
+        "molecular_weight_g_mol": 17.031
+      }
+    }
+  ]
+}
